@@ -186,13 +186,18 @@ the app — it is never presented as real data.
 
 ## Screenshots
 
-*(Placeholders — capture real screenshots after running the application.)*
+### Dataset Overview
+![Dataset Overview](docs/screenshots/overview.png)
 
-- `docs/screenshots/overview.png`
-- `docs/screenshots/leakage_scan.png`
-- `docs/screenshots/feature_inspector.png`
-- `docs/screenshots/feature_inspector(1).png`
-- `docs/screenshots/model_comparison.png`
+### Leakage Scan
+![Leakage Scan](docs/screenshots/leakage_scan.png)
+
+### Feature Inspector
+![Feature Inspector](docs/screenshots/feature_inspector.png)
+![Feature Inspector — category view](docs/screenshots/feature_inspector(1).png)
+
+### Model Comparison
+![Model Comparison](docs/screenshots/model_comparison.png)
 
 ## Limitations
 
